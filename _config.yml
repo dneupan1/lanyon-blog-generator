@@ -1,0 +1,22 @@
+# Setup
+title:               Deepak Neupane
+tagline:             ''
+description:         '@DEEPAKAE'
+url:                 https://dneupan1.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Deepak Neupane
+  url:               https://www.linkedin.com/in/deepak-n-neupane/s
+  email:             deepak.97733@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+
